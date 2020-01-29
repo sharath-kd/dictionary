@@ -1,0 +1,8 @@
+Innocent|Not guilty of#
+Today|Present#
+Anonymous|Unknown person#
+Leisure|Free time#
+Quixotic|Unrealistic#
+File|Collection of data#
+Directory|Collection of files#
+Work|Doing a task#

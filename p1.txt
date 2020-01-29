@@ -1,0 +1,8 @@
+1Innocent:Not guilty of
+2Today:Present
+3Anonymous:Unknown person
+4Leisure:Free time
+5Quixotic:Unrealistic
+6File:Collection of data
+7Directory:Collection of files
+8Work:Doing a task
